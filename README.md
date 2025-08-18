@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00c6ff,100:0072ff&height=280&text=YEIN%20KIM&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </div>
 
-<h5 align="center">Statistics & IT Engineering at SMWU</h5>
-<h5 align="center">Focused on Python for AI</h5>
+<h5 align="center">Statistics & IT Engineering at SMWU
+</br>Focused on Python for AI</h5>
 
 <h3 align="center">Links</h3>
 
