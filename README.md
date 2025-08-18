@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00c6ff,100:0072ff&height=280&text=YEIN%20KIM&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </div>
 
-<h4 align="center">Statistics & IT Engineering at SMWU
-</br>Focused on Python for AI</h4>
+<h4 align="center">
+  Statistics & IT Engineering at SMWU</br>Focused on Python for AI</h4>
 
+</br>
 <h3 align="center">My Links</h3>
 
 <div align="center">
@@ -16,5 +17,5 @@
   </a>
   <a href="https://blog.naver.com/hztown">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-  </a>
+  </a></br>
 </div>
