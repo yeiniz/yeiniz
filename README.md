@@ -3,10 +3,7 @@
 </div>
 
 <h5 align="center">Statistics & IT Engineering at SMWU</h5>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-</div>
+<h5 align="center">Focused on Python for AI</h5>
 
 <h3 align="center">Links</h3>
 
