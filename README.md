@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00c6ff,100:0072ff&height=280&text=YEIN%20KIM&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </div>
 
+<h3 align="center">Statistics & IT Engineering at SMWU</h3>
+
 <h3 align="center">Tech Stacks</h3>
 
 <div align="center">
