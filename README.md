@@ -6,7 +6,7 @@
   Statistics & IT Engineering at SMWU</br>Focused on Python for AI</h4>
 
 </br>
-<h3 align="center">My Links</h3>
+<h3 align="center">★ My Links ★</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/yeinee.k/">
