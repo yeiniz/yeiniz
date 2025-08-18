@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1e3c72,100:2a5298&height=200&text=YEIN%20KIM&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00c6ff,100:0072ff&height=280&text=YEIN%20KIM&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
