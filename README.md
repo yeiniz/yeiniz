@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 </div>
 
-<h3 align="center">Contact</h3>
+<h3 align="center">Links</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/yeinee.k/">
