@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=FFFFFF&text=YEIN%KIM)
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=200&text=YEIN%20KIM&animation=fadeIn&fontColor=004cff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1e3c72,100:2a5298&height=200&text=YEIN%20KIM&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
