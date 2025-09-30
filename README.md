@@ -3,7 +3,7 @@
 </div>
 
 <h4 align="center">
-  Statistics & IT Engineering at SMWU</br>Focused on Python for AI</h4>
+  Statistics & IT Engineering at SMWU</br>Focused on Python for AI/HCI</h4>
 
 </br>
 <h3 align="center">★ My Links ★</h3>
