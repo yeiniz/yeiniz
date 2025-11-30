@@ -3,5 +3,5 @@
 </div>
 
 <h4 align="center">
-  Statistics & IT Engineering at SMWU</br>-</br>Human-centered AI</h4>
+  Statistics & IT Engineering at SMWU</h4>
 </div>
